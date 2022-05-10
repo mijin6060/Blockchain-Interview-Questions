@@ -22,12 +22,12 @@
      </tr>
      <tr>
           <td align="center">
-               <a href="https://github/WONSUNGJUN">
+               <a href="https://github.com/WONSUNGJUN">
                     <div>원성준</div>
                </a>
           </td>
           <td align="center">
-               <a href="https://github/WONSUNGJUN">
+               <a href="https://github.com/mijin6060">
                     <div>조미진</div>
                </a>
           </td>
@@ -242,6 +242,21 @@
 ### Q 51. ERC20 토큰과 메인넷 토큰은 무슨 차이인가요?
 >
 <br>
+
+### Q 52. 비트코인에서의 mempool 은 무엇인가요?
+>
+<br>
+
+### Q 53. 합의알고리즘 특성 중 safety, liveness 에 대해서 설명해주세요.
+>
+<br>
+
+### Q 54. 이더리움 Account 에서 EOA와 CA 에 대해서 설명해주세요.
+>
+<br>
+
+### Q 55. 
+
 
 * Solidity 관련 내용 추가해야한다고 생각합니다..
 >
